@@ -139,6 +139,7 @@ printexamples(int* width,FILE* fp)
       }
     }
   }
+}
 
 main()
 {
